@@ -1,0 +1,27 @@
+﻿
+.shadw {
+    color: #cbcbcb;
+    text-shadow: 1px 1px 8px #383838;
+}
+.shadw:hover{
+    color : black
+}
+.yellowTEXT{
+    color : yellow
+}
+.blueTEXT{
+    color : blue
+}
+.cyanTEXT{
+    color : cyan
+}
+.orangeTEXT{
+    color : orange
+}
+.redTEXT{
+    color : red
+}
+.greenTEXT{
+    color : green
+}
+
